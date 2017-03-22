@@ -33,6 +33,7 @@
     "i18n-2": "*"
   },
   "dependencies": {
+    "i18n-2": "^0.6.3",
     "cf-client": "latest",
     "coffee-script": "1.10.0",
     "hubot": "^2.19.0",
@@ -42,6 +43,7 @@
     "hubot-emit-tweeter": "latest",
     "hubot-environment": "latest",
     "hubot-help": "^0.2.0",
+    "hubot-ibmcloud-cognitive-entities": "latest",
     "hubot-ibmcloud-activity-emitter": "latest",
     "hubot-ibmcloud-alerts": "latest",
     "hubot-ibmcloud-app-management": "latest",
